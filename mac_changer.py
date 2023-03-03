@@ -24,4 +24,3 @@ if mac_changed_successfully:
     print(f"[+] The MAC address for {args.interface} changed to {changed_mac}")
 else:
     print(f"[-] MAC Address of {args.interface} is still {original_mac}")
-

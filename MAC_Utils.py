@@ -24,7 +24,6 @@ class MAC_Changer:
     # Class Attributes
     # ========================
 
-
     # ========================
     # Constructors
     # ========================  
